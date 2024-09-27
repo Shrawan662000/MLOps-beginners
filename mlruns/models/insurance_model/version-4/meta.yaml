@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727421067084
+current_stage: None
+description: null
+last_updated_timestamp: 1727421067084
+name: insurance_model
+run_id: 8f67338f3ffa40acb1e50edc09a5f1f4
+run_link: null
+source: file:///C:/Users/s21/Desktop/my%20data/MLOps-with-mlflow/mlops-project/mlruns/145793963536767943/8f67338f3ffa40acb1e50edc09a5f1f4/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/s21/Desktop/my%20data/MLOps-with-mlflow/mlops-project/mlruns/145793963536767943/8f67338f3ffa40acb1e50edc09a5f1f4/artifacts/model
+user_id: null
+version: 4

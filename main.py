@@ -50,7 +50,7 @@ def train_with_mlflow():
         config = yaml.safe_load(file)
 
     # mlflow.set_tracking_uri("http://localhost:5000")
-    mlflow.set_tracking_uri("http://192.168.0.166:5000")
+    # mlflow.set_tracking_uri("http://192.168.0.166:5000")
 
     
     mlflow.set_experiment("My Model Training Experiment")

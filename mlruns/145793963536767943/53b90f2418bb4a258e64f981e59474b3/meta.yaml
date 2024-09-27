@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/s21/Desktop/my%20data/MLOps-with-mlflow/mlops-project/mlruns/145793963536767943/53b90f2418bb4a258e64f981e59474b3/artifacts
+end_time: 1727421868883
+entry_point_name: ''
+experiment_id: '145793963536767943'
+lifecycle_stage: active
+run_id: 53b90f2418bb4a258e64f981e59474b3
+run_name: smiling-grouse-935
+run_uuid: 53b90f2418bb4a258e64f981e59474b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727421864550
+status: 3
+tags: []
+user_id: s21
