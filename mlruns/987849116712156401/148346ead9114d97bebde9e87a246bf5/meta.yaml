@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/148346ead9114d97bebde9e87a246bf5/artifacts
+end_time: 1727417985854
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 148346ead9114d97bebde9e87a246bf5
+run_name: masked-shrew-782
+run_uuid: 148346ead9114d97bebde9e87a246bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727417981687
+status: 4
+tags: []
+user_id: s21

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/658d44f363e44388823da78c4bdc9d2c/artifacts
+end_time: 1727417272391
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 658d44f363e44388823da78c4bdc9d2c
+run_name: resilient-panda-923
+run_uuid: 658d44f363e44388823da78c4bdc9d2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727417268278
+status: 4
+tags: []
+user_id: s21

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/66ad9629f88c4bfc903b8d155291628f/artifacts
+end_time: 1727415493225
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: 66ad9629f88c4bfc903b8d155291628f
+run_name: charming-stag-978
+run_uuid: 66ad9629f88c4bfc903b8d155291628f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727415488423
+status: 4
+tags: []
+user_id: s21

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/s21/Desktop/my%20data/MLOps-with-mlflow/mlops-project/mlruns/145793963536767943/370ec9765fdb44a39f85ece529f2db88/artifacts
+end_time: 1727420532385
+entry_point_name: ''
+experiment_id: '145793963536767943'
+lifecycle_stage: active
+run_id: 370ec9765fdb44a39f85ece529f2db88
+run_name: charming-finch-751
+run_uuid: 370ec9765fdb44a39f85ece529f2db88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727420528255
+status: 3
+tags: []
+user_id: s21

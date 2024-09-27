@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prsdm/OneDrive/Desktop/ml-project/mlruns/987849116712156401/fb2c61e6a4c7481e9e2d4af1f2ae2709/artifacts
+end_time: 1727415133301
+entry_point_name: ''
+experiment_id: '987849116712156401'
+lifecycle_stage: active
+run_id: fb2c61e6a4c7481e9e2d4af1f2ae2709
+run_name: auspicious-cat-459
+run_uuid: fb2c61e6a4c7481e9e2d4af1f2ae2709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727415132879
+status: 4
+tags: []
+user_id: s21

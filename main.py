@@ -49,7 +49,11 @@ def train_with_mlflow():
     with open('config.yml', 'r') as file:
         config = yaml.safe_load(file)
 
-    mlflow.set_experiment("Model Training Experiment")
+    # mlflow.set_tracking_uri("http://localhost:5000")
+    mlflow.set_tracking_uri("http://192.168.0.166:5000")
+
+    
+    mlflow.set_experiment("My Model Training Experiment")
     
     with mlflow.start_run() as run:
         # Load data
@@ -78,7 +82,7 @@ def train_with_mlflow():
         logging.info("Model evaluation completed successfully")
         
         # Tags 
-        mlflow.set_tag('Model developer', 'prsdm')
+        mlflow.set_tag('Model developer', 'Shrawan')
         mlflow.set_tag('preprocessing', 'OneHotEncoder, Standard Scaler, and MinMax Scaler')
         
         # Log metrics
