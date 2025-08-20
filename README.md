@@ -19,6 +19,50 @@ git clone https://github.com/prsdm/ml-project.git
 ```bash
 cd ml-project
 ```
+
+.
+├── .github                         # DVC metadata and configuration
+│   └── workflows                   # GitHub Actions workflows for CI/CD
+│       └── docs.yml                
+├── data                            # Directory for storing data files
+│   ├── train.csv                   
+│   └── test.csv                                  
+├── docs                            # Project documentation.
+│   └── index.md                    
+├── models                          # Store trained models 
+├── mlruns                          # Directory for MLflow run logs and artifacts
+├── steps                           # Source code for data processing and model training
+│   ├── __init__.py                
+│   ├── ingest.py                   
+│   ├── clean.py                    
+│   ├── train.py                    
+│   └── predict.py                  
+├── tests                           # Directory to store tests
+│   ├── __init__.py                 
+│   ├── test_ingest.py              
+│   └── test_clean.py              
+├── .gitignore                      # To ignore files that can't commit to Git
+├── app.py                          # FastAPI app file
+├── config.yml                      # Configuration file
+├── data.dvc                        # For tracking data files and their versions
+├── dataset.py                      # Script to download or generate data
+├── dockerfile                      # Dockerfile for containerizing FastAPI
+├── LICENSE                         # License for project
+├── main.py                         # To automate model training
+├── Makefile                        # To store useful commands to make train or make test 
+├── mkdocs.yml                      # Configuration file for MkDocs
+├── README.md                       # Project description
+├── requirements.txt                # Requirements file for reproducing the environment.
+├── samples.json                    # Sample data for testing
+
+'''Extra files for monitoring'''
+├── data                           
+│   └──production.csv               # data for Monitoring
+├── monitor.ipynb                   # Model Monitoring notebook 
+├── test_data.html                  # monitoring results for test data  
+└── production_data.html            # monitoring results for production data
+
+
 #### 2. Set Up the Environment
 Ensure you have Python 3.8+ installed. Create a virtual environment and install the necessary dependencies:
 ```bash
